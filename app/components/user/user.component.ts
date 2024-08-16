@@ -10,7 +10,7 @@ import { userSerrvice } from '../../services/user.service';
   styleUrl: './user.component.css'
 })
 
-export class AppComponent implements OnInit {
+export class userComponent implements OnInit {
 
   public data: any;
 
